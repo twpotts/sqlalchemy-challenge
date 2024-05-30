@@ -1,0 +1,20 @@
+Description:
+
+This project connects to a SQLite database using Python and creates a basic Flask API
+
+Folder contents:
+
+SurfsUp
+    Resources
+        hawaii.sqlite
+        hawaii_measurements.csv
+	hawaii_stations.csv
+    .gitignore
+    app.py
+    climate.ipynb
+    README
+
+Contact info:
+
+Tyler Potts
+twpotts11@gmail.com
